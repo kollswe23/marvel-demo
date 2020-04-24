@@ -1,0 +1,20 @@
+{
+  "name": "marvel-demo",
+  "version": "1.0.0",
+  "description": "Marvel",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Swetha K",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "md5": "^2.2.1",
+    "request": "^2.88.2",
+    "time-stamp": "^2.2.0"
+  }
+}
